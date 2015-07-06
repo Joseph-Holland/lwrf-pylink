@@ -17,7 +17,7 @@ host = "localhost"
 emoncmspath = "emoncms"
 
 # Write apikey of emoncms account
-apikey = ""
+apikey = "<emoncms_api_key>"
 
 # Node id youd like the emontx to appear as
 nodeid = 1

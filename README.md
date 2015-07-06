@@ -1,4 +1,5 @@
 # lwrf-pylink
+Python script to listen for LightwaveRF energy monitor values and input into Emoncms.
 
 This is a simple Python script that I put together to help input energy usage data from a LightwaveRF energy monitor into Emoncms (http://emoncms.org/) where I can create dashboards and run reports on power usage, etc.  In order to use this you will need both a LightwaveRF WiFiLink and energy monitor devices (http://lightwaverf.com/).
 
